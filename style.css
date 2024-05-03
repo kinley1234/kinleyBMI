@@ -1,0 +1,38 @@
+
+h2{
+    background-color: rgb(133, 205, 253);
+    font-weight: bolder;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(54, 47, 217);
+}
+
+.container {
+    margin-top: 100px;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+.card{
+    max-width: 600px;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(222, 252, 249);
+}
+#number{
+     color: rgb(60, 132, 171);
+     text-align: center;
+     font-size: auto;
+    
+}
+#calculateBtn{
+    background-color: #107cef;
+    max-width: auto;
+}
+
+
+
+
